@@ -1,6 +1,6 @@
 # Ejercicio Práctico - Unidad 6
 
-Haz un fork de este repositorio desde tu cuenta de GitHub, clónalo desde Eclipse e importa el proyecto Maven que contiene.
+Haz un fork de este repositorio desde tu cuenta de GitHub, clónalo desde Eclipse e importa el proyecto de Java que contiene.
 
 Para realizar este ejercicio se permite:  
 - Consultar la documentación publicada en Aulas Virtuales para del Módulo de Programación.
